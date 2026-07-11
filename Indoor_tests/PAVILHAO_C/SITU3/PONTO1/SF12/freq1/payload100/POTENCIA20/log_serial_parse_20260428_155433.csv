@@ -1,0 +1,2 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-04-28 15:54:36.198,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,

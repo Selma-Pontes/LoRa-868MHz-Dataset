@@ -1,0 +1,3 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-05-18 15:22:24.595,COM3,115200,LoRa RX inicializado com sucesso.,,,,,
+2026-05-18 15:22:31.123,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,

@@ -1,0 +1,20 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-05-26 14:11:16.825,COM3,115200,LoRa RX inicializado com sucesso.,,,,,
+2026-05-26 14:11:31.987,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -117.00 dBm | SNR: -14.75 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-117.0,-14.75,128.0,69076.5
+2026-05-26 14:11:34.769,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:36.369,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:36.569,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:36.777,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -118.00 dBm | SNR: -15.00 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-118.0,-15.0,129.0,77505.1
+2026-05-26 14:11:37.177,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -117.00 dBm | SNR: -15.00 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-117.0,-15.0,128.0,69076.5
+2026-05-26 14:11:37.377,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -116.00 dBm | SNR: -14.75 dB | L: 127.00 dB | d_est: 61564.50 m,LoRa_test_12345,-116.0,-14.75,127.0,61564.5
+2026-05-26 14:11:37.565,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:38.169,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:38.569,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:38.778,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -117.00 dBm | SNR: -13.00 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-117.0,-13.0,128.0,69076.5
+2026-05-26 14:11:38.978,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -116.00 dBm | SNR: -13.75 dB | L: 127.00 dB | d_est: 61564.50 m,LoRa_test_12345,-116.0,-13.75,127.0,61564.5
+2026-05-26 14:11:39.178,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -117.00 dBm | SNR: -14.50 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-117.0,-14.5,128.0,69076.5
+2026-05-26 14:11:39.377,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -118.00 dBm | SNR: -14.25 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-118.0,-14.25,129.0,77505.1
+2026-05-26 14:11:39.564,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:39.769,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:39.965,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:11:40.170,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,

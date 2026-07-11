@@ -1,0 +1,10 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-04-27 15:25:53.201,COM3,115200,LoRa RX inicializado com sucesso.,,,,,
+2026-04-27 15:25:59.359,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -41.00 dBm | SNR: 5.00 dB | L: 64.00 dB | d_est: 43.57 m,LoRa_test_12345,-41.0,5.0,64.0,43.57
+2026-04-27 15:26:00.543,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -43.00 dBm | SNR: 4.75 dB | L: 66.00 dB | d_est: 54.86 m,LoRa_test_12345,-43.0,4.75,66.0,54.86
+2026-04-27 15:26:01.723,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -46.00 dBm | SNR: 4.75 dB | L: 69.00 dB | d_est: 77.49 m,LoRa_test_12345,-46.0,4.75,69.0,77.49
+2026-04-27 15:26:02.887,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -66.00 dBm | SNR: 4.50 dB | L: 89.00 dB | d_est: 774.87 m,LoRa_test_12345,-66.0,4.5,89.0,774.87
+2026-04-27 15:26:04.069,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -57.00 dBm | SNR: 5.50 dB | L: 80.00 dB | d_est: 274.94 m,LoRa_test_12345,-57.0,5.5,80.0,274.94
+2026-04-27 15:26:05.251,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -55.00 dBm | SNR: 5.25 dB | L: 78.00 dB | d_est: 218.39 m,LoRa_test_12345,-55.0,5.25,78.0,218.39
+2026-04-27 15:26:06.416,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -48.00 dBm | SNR: 4.75 dB | L: 71.00 dB | d_est: 97.55 m,LoRa_test_12345,-48.0,4.75,71.0,97.55
+2026-04-27 15:26:07.598,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -47.00 dBm | SNR: 5.25 dB | L: 70.00 dB | d_est: 86.94 m,LoRa_test_12345,-47.0,5.25,70.0,86.94

@@ -1,0 +1,12 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-05-26 14:15:59.495,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-26 14:15:59.913,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -110.00 dBm | SNR: -10.75 dB | L: 133.00 dB | d_est: 122837.32 m,LoRa_test_12345,-110.0,-10.75,133.0,122837.32
+2026-05-26 14:16:00.304,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -106.00 dBm | SNR: -5.75 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-106.0,-5.75,129.0,77505.1
+2026-05-26 14:16:00.503,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -107.00 dBm | SNR: -8.50 dB | L: 130.00 dB | d_est: 86962.16 m,LoRa_test_12345,-107.0,-8.5,130.0,86962.16
+2026-05-26 14:16:00.704,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -109.00 dBm | SNR: -9.25 dB | L: 132.00 dB | d_est: 109478.88 m,LoRa_test_12345,-109.0,-9.25,132.0,109478.88
+2026-05-26 14:16:00.902,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -109.00 dBm | SNR: -7.75 dB | L: 132.00 dB | d_est: 109478.88 m,LoRa_test_12345,-109.0,-7.75,132.0,109478.88
+2026-05-26 14:16:01.104,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -106.00 dBm | SNR: -5.50 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-106.0,-5.5,129.0,77505.1
+2026-05-26 14:16:01.301,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -106.00 dBm | SNR: -6.50 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-106.0,-6.5,129.0,77505.1
+2026-05-26 14:16:01.504,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -105.00 dBm | SNR: -5.75 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-105.0,-5.75,128.0,69076.5
+2026-05-26 14:16:01.704,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -106.00 dBm | SNR: -5.50 dB | L: 129.00 dB | d_est: 77505.10 m,LoRa_test_12345,-106.0,-5.5,129.0,77505.1
+2026-05-26 14:16:01.904,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -107.00 dBm | SNR: -5.75 dB | L: 130.00 dB | d_est: 86962.16 m,LoRa_test_12345,-107.0,-5.75,130.0,86962.16

@@ -1,0 +1,3 @@
+PONTO 1 - atrio ( estacionamento)
+PONTO 2 - Firmino
+PONTO 3 - atrás do C

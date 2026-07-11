@@ -1,0 +1,52 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-05-18 13:59:46.424,COM3,115200,LoRa RX inicializado com sucesso.,,,,,
+2026-05-18 14:00:02.696,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -79.00 dBm | SNR: 5.00 dB | L: 102.00 dB | d_est: 3462.03 m,LoRa_test_12345,-79.0,5.0,102.0,3462.03
+2026-05-18 14:00:03.876,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -85.00 dBm | SNR: 5.50 dB | L: 108.00 dB | d_est: 6907.65 m,LoRa_test_12345,-85.0,5.5,108.0,6907.65
+2026-05-18 14:00:05.052,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -82.00 dBm | SNR: 4.75 dB | L: 105.00 dB | d_est: 4890.24 m,LoRa_test_12345,-82.0,4.75,105.0,4890.24
+2026-05-18 14:00:06.228,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -83.00 dBm | SNR: 5.00 dB | L: 106.00 dB | d_est: 5486.94 m,LoRa_test_12345,-83.0,5.0,106.0,5486.94
+2026-05-18 14:00:07.402,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -90.00 dBm | SNR: 4.00 dB | L: 113.00 dB | d_est: 12283.73 m,LoRa_test_12345,-90.0,4.0,113.0,12283.73
+2026-05-18 14:00:08.576,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -91.00 dBm | SNR: 1.50 dB | L: 114.00 dB | d_est: 13782.57 m,LoRa_test_12345,-91.0,1.5,114.0,13782.57
+2026-05-18 14:00:09.752,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -93.00 dBm | SNR: 0.25 dB | L: 116.00 dB | d_est: 17351.23 m,LoRa_test_12345,-93.0,0.25,116.0,17351.23
+2026-05-18 14:00:10.926,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -93.00 dBm | SNR: -0.50 dB | L: 116.00 dB | d_est: 17351.23 m,LoRa_test_12345,-93.0,-0.5,116.0,17351.23
+2026-05-18 14:00:12.104,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 1.75 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,1.75,115.0,15464.3
+2026-05-18 14:00:13.266,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -93.00 dBm | SNR: 1.00 dB | L: 116.00 dB | d_est: 17351.23 m,LoRa_test_12345,-93.0,1.0,116.0,17351.23
+2026-05-18 14:00:14.454,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -89.00 dBm | SNR: 3.00 dB | L: 112.00 dB | d_est: 10947.89 m,LoRa_test_12345,-89.0,3.0,112.0,10947.89
+2026-05-18 14:00:15.628,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -89.00 dBm | SNR: 3.25 dB | L: 112.00 dB | d_est: 10947.89 m,LoRa_test_12345,-89.0,3.25,112.0,10947.89
+2026-05-18 14:00:16.807,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -103.00 dBm | SNR: -3.50 dB | L: 126.00 dB | d_est: 54869.41 m,LoRa_test_12345,-103.0,-3.5,126.0,54869.41
+2026-05-18 14:00:17.976,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -93.00 dBm | SNR: 4.00 dB | L: 116.00 dB | d_est: 17351.23 m,LoRa_test_12345,-93.0,4.0,116.0,17351.23
+2026-05-18 14:00:19.153,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 3.75 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,3.75,115.0,15464.3
+2026-05-18 14:00:20.327,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 2.00 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,2.0,115.0,15464.3
+2026-05-18 14:00:21.503,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -90.00 dBm | SNR: 4.50 dB | L: 113.00 dB | d_est: 12283.73 m,LoRa_test_12345,-90.0,4.5,113.0,12283.73
+2026-05-18 14:00:22.677,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 3.50 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,3.5,115.0,15464.3
+2026-05-18 14:00:23.852,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 0.50 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,0.5,115.0,15464.3
+2026-05-18 14:00:25.030,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -102.00 dBm | SNR: -4.50 dB | L: 125.00 dB | d_est: 48902.42 m,LoRa_test_12345,-102.0,-4.5,125.0,48902.42
+2026-05-18 14:00:26.208,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -88.00 dBm | SNR: 3.50 dB | L: 111.00 dB | d_est: 9757.31 m,LoRa_test_12345,-88.0,3.5,111.0,9757.31
+2026-05-18 14:00:27.378,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -94.00 dBm | SNR: 1.75 dB | L: 117.00 dB | d_est: 19468.40 m,LoRa_test_12345,-94.0,1.75,117.0,19468.4
+2026-05-18 14:00:28.558,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -105.00 dBm | SNR: -9.25 dB | L: 128.00 dB | d_est: 69076.50 m,LoRa_test_12345,-105.0,-9.25,128.0,69076.5
+2026-05-18 14:00:29.722,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-18 14:00:30.907,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -97.00 dBm | SNR: -2.25 dB | L: 120.00 dB | d_est: 27499.85 m,LoRa_test_12345,-97.0,-2.25,120.0,27499.85
+2026-05-18 14:00:32.076,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -98.00 dBm | SNR: -3.00 dB | L: 121.00 dB | d_est: 30855.34 m,LoRa_test_12345,-98.0,-3.0,121.0,30855.34
+2026-05-18 14:00:33.250,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -97.00 dBm | SNR: -3.75 dB | L: 120.00 dB | d_est: 27499.85 m,LoRa_test_12345,-97.0,-3.75,120.0,27499.85
+2026-05-18 14:00:34.428,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -99.00 dBm | SNR: -4.50 dB | L: 122.00 dB | d_est: 34620.26 m,LoRa_test_12345,-99.0,-4.5,122.0,34620.26
+2026-05-18 14:00:35.604,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -98.00 dBm | SNR: -2.50 dB | L: 121.00 dB | d_est: 30855.34 m,LoRa_test_12345,-98.0,-2.5,121.0,30855.34
+2026-05-18 14:00:36.777,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -97.00 dBm | SNR: -2.75 dB | L: 120.00 dB | d_est: 27499.85 m,LoRa_test_12345,-97.0,-2.75,120.0,27499.85
+2026-05-18 14:00:37.954,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -96.00 dBm | SNR: -1.50 dB | L: 119.00 dB | d_est: 24509.27 m,LoRa_test_12345,-96.0,-1.5,119.0,24509.27
+2026-05-18 14:00:39.127,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -93.00 dBm | SNR: 0.50 dB | L: 116.00 dB | d_est: 17351.23 m,LoRa_test_12345,-93.0,0.5,116.0,17351.23
+2026-05-18 14:00:40.307,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -95.00 dBm | SNR: -1.25 dB | L: 118.00 dB | d_est: 21843.91 m,LoRa_test_12345,-95.0,-1.25,118.0,21843.91
+2026-05-18 14:00:41.476,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -95.00 dBm | SNR: -0.50 dB | L: 118.00 dB | d_est: 21843.91 m,LoRa_test_12345,-95.0,-0.5,118.0,21843.91
+2026-05-18 14:00:42.647,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-18 14:00:43.822,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-18 14:00:45.005,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -95.00 dBm | SNR: -0.75 dB | L: 118.00 dB | d_est: 21843.91 m,LoRa_test_12345,-95.0,-0.75,118.0,21843.91
+2026-05-18 14:00:46.172,COM3,115200,"AVISO: Pacote detetado, mas chegou corrompido (Erro de CRC)!",,,,,
+2026-05-18 14:00:47.360,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -101.00 dBm | SNR: -6.50 dB | L: 124.00 dB | d_est: 43584.32 m,LoRa_test_12345,-101.0,-6.5,124.0,43584.32
+2026-05-18 14:00:48.535,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -96.00 dBm | SNR: -0.25 dB | L: 119.00 dB | d_est: 24509.27 m,LoRa_test_12345,-96.0,-0.25,119.0,24509.27
+2026-05-18 14:00:49.707,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -99.00 dBm | SNR: -1.25 dB | L: 122.00 dB | d_est: 34620.26 m,LoRa_test_12345,-99.0,-1.25,122.0,34620.26
+2026-05-18 14:00:50.885,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -102.00 dBm | SNR: -5.25 dB | L: 125.00 dB | d_est: 48902.42 m,LoRa_test_12345,-102.0,-5.25,125.0,48902.42
+2026-05-18 14:00:52.057,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -103.00 dBm | SNR: -4.75 dB | L: 126.00 dB | d_est: 54869.41 m,LoRa_test_12345,-103.0,-4.75,126.0,54869.41
+2026-05-18 14:00:53.235,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -97.00 dBm | SNR: 0.25 dB | L: 120.00 dB | d_est: 27499.85 m,LoRa_test_12345,-97.0,0.25,120.0,27499.85
+2026-05-18 14:00:54.407,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -89.00 dBm | SNR: 4.50 dB | L: 112.00 dB | d_est: 10947.89 m,LoRa_test_12345,-89.0,4.5,112.0,10947.89
+2026-05-18 14:00:55.582,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 3.25 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,3.25,115.0,15464.3
+2026-05-18 14:00:56.756,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -95.00 dBm | SNR: 1.25 dB | L: 118.00 dB | d_est: 21843.91 m,LoRa_test_12345,-95.0,1.25,118.0,21843.91
+2026-05-18 14:00:57.932,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -91.00 dBm | SNR: 4.50 dB | L: 114.00 dB | d_est: 13782.57 m,LoRa_test_12345,-91.0,4.5,114.0,13782.57
+2026-05-18 14:00:59.106,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -92.00 dBm | SNR: 3.75 dB | L: 115.00 dB | d_est: 15464.30 m,LoRa_test_12345,-92.0,3.75,115.0,15464.3
+2026-05-18 14:01:00.283,COM3,115200,Recebido: LoRa_test_12345 | RSSI: -96.00 dBm | SNR: 2.00 dB | L: 119.00 dB | d_est: 24509.27 m,LoRa_test_12345,-96.0,2.0,119.0,24509.27

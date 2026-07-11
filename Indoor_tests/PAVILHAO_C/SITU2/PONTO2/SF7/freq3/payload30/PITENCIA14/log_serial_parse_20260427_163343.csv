@@ -1,0 +1,3 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-04-27 16:33:45.649,COM3,115200,LoRa RX inicializado com sucesso.,,,,,
+2026-04-27 16:33:45.649,COM3,115200,Recebido: LoRa_test_12345_ABCDE_67890XY | RSSI: -58.00 dBm | SNR: 12.25 dB | L: 75.00 dB | d_est: 154.64 m,LoRa_test_12345_ABCDE_67890XY,-58.0,12.25,75.0,154.64

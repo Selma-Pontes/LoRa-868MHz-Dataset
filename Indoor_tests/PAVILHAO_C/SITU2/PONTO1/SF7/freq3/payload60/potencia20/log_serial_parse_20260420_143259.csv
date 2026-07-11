@@ -1,0 +1,2 @@
+timestamp,porta,baudrate,linha_raw,mensagem,RSSI_dBm,SNR_dB,L_dB,d_est_m
+2026-04-20 14:33:01.287,COM3,115200,LoRa RX inicializado com sucesso.,,,,,

@@ -1,0 +1,4 @@
+SITU2 -  Transmissor próximo das máquinas de bebidas do piso 0, o recetor "circula" pelo espaço comum de acesso às salas do piso 0 
+SITU3 -  Transmissor próximo das máquinas de bebidas do piso 0, o recetor "circula" pelo espaço comum de acesso às salas do piso 1 
+SITU4 -  Transmissor na sala de estudo (Piso 0), o recetor "circula" pelo espaço comum de acesso às salas do piso 1 
+
